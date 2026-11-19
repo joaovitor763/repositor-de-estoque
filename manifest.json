@@ -1,0 +1,18 @@
+{
+  "name": "EstoquePro - Controle de Loja",
+  "short_name": "EstoquePro",
+  "start_url": "/repositor-de-estoque/",
+  "scope": "/repositor-de-estoque/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2897/2897785.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
